@@ -1,6 +1,6 @@
 Project Title
 ----
-Automate Detection of different Sentiments from Textual Comments and Feedback. 
+Automate sentiment analysis of textual comments and feedback. 
 
 Project Description:
 ---
